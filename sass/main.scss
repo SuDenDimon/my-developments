@@ -1,0 +1,14 @@
+$color: green;
+$main-width: 100px;
+$secondaryColor: red;
+
+body {
+    background-color: $color;
+    width: $main-width;
+}
+h2 {
+    color: $color;
+} 
+p {
+    color: $secondaryColor;
+}
